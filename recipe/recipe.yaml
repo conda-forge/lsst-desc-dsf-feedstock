@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.0"
+  version: "0.3.0"
 
 package:
   name: lsst-desc-dsf
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/l/lsst-desc-dsf/lsst_desc_dsf-${{ version }}.tar.gz
-  sha256: e0ec0b86a502dc6542d845959db5fa74d5f10ca713dd2875b485198e1dcbda50
+  sha256: 84959eeb36597e9c06b6952a6cc6ea872365160376381b096a7ee4ee5911e396
 
 build:
   number: 0
